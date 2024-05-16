@@ -1,0 +1,11 @@
+header {
+    width: 80%;
+}
+header > img { 
+    width: 50%;
+    border: 1px solid black;
+}
+nav {
+    background-color: red;
+margin: 20px;
+}
