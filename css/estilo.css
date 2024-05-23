@@ -13,12 +13,45 @@ header > img {
 }
 header> h1 {
     text-align: center ;
+    margin: 1% auto;
     font-size: 2rem;
+    color:rgb(209, 56, 56)
+
 }
 nav > ul  {
     width: 100%;
     display: flex;
     justify-content: space-around;
-    font-size: 1.35em;
+    font-size: 1.45em;
 }
   
+nav > ul > li > a {
+    text-decoration: none;
+    color: black;
+    line-height: 2.5rem;
+    font: size 1.5rem;
+    transition: all 300ms;
+    display: block;
+}
+nav > ul > li > a:hover {
+    font-size:  1.8rem;
+    color: rgb(203, 48, 48);
+    transition: all 500msss;
+}
+
+ h2{
+    margin: 1% auto;
+    font-size: 2rem;
+    color:rgb(1, 0, 0)
+
+}
+.miranha_imagem{
+    width: 20%;
+
+}
+.tituloproduto{
+    margin: 1% auto;
+    color:rgb(204, 42, 42);
+    font: size 1.45em;
+
+}
