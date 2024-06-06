@@ -47,7 +47,7 @@ nav > ul > li > a:hover {
 
 }
 .miranha_imagem{
-    width: 70%;
+    width: 50%;
 
 }
 .tituloproduto{
@@ -55,25 +55,17 @@ nav > ul > li > a:hover {
     color:rgb(204, 42, 42);
     font-size: 1.75rem;
 
-
 }
 .lista_produtos{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
-    
 }
 .lista_produtos_itens{
-    width: 20%;
+    width: 30%;
     margin: 1% ;
-    box-shadow: 6px 4px 8px white;
-
 }
 .lista_produtos_itens >p {
     font-size: 1.5rem;
     line-height: 2rem;
     font-weight: bold;
-}
-.lista_produtos_itens:hover{
-    box-shadow: 3px 2px 2px;
 }
